@@ -14,11 +14,12 @@ body.chiaro{
 }
 
 p {
-    color: white;
+    color: black;
 }
 
 ul{
     padding: 20px;
+    color: black;
 }
 
 header {
